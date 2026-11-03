@@ -136,7 +136,7 @@ MASTER_DECKS = {
         {"name": "Darth Vader", "hint": "Heavy mechanical breathing sound, black helmet, red lightsaber, force choke"},
         {"name": "Yoda", "hint": "Tiny green Jedi master, speaking in reversed grammar: 'Do, or do not'"},
         {"name": "Marilyn Monroe", "hint": "Blowing a kiss, dress flying up over subway grate, breathy voice"},
-        {"name": "Tom Cruise / Ethan Hunt", "hint": "Sprinting at top speed with flat palms, hanging off planes and cliffs"}
+        {"name": "Tom Cruise / Ethan Hunt", "hint": "Sprinting at top speed with flat palms, hanging off planes and cliffs"},
         {"name": "Lord Krishna", "hint": "Playing the divine flute (bansuri), peacock feather on head, butter thief"},
         {"name": "Lord Shiva / Mahadev", "hint": "Third eye on forehead, holding a trident (Trishul) and damru, Nataraja dance"},
         {"name": "Lord Hanuman", "hint": "Carrying the Sanjeevani mountain in one hand, mace (Gada) in the other, tearing chest open"},
