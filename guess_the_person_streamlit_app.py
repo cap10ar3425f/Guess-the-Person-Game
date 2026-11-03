@@ -33,8 +33,8 @@ MASTER_DECKS = {
         {"name": "Roger Federer", "hint": "Swiss maestro, elegant 1-handed backhand, 20 Grand Slams"},
         {"name": "Rafael Nadal", "hint": "King of Clay, intense fist pumps, 14 French Opens"},
         {"name": "Usain Bolt", "hint": "Fastest man alive, famous lightning bolt victory pose"},
-        {"name": "Muhammad Ali", "hint": "'Float like a butterfly, sting like a bee'"}
-        {"name": "Sania Mirza", "hint": "'Six time Grand Slam Champion in women's doubles'"}
+        {"name": "Muhammad Ali", "hint": "'Float like a butterfly, sting like a bee'"},
+        {"name": "Sania Mirza", "hint": "'Six time Grand Slam Champion in women's doubles'"},
         {"name": "Diego Maradona", "hint": "'Hand of God', Argentine legend, iconic 1986 solo World Cup goal"},
         {"name": "Pele", "hint": "'O Rei', 3-time World Cup winner, Brazilian football icon"},
         {"name": "Kylian Mbappe", "hint": "French speedster, 2022 World Cup final hat-trick hero, folded arms pose"},
@@ -76,7 +76,7 @@ MASTER_DECKS = {
         {"name": "Wednesday Addams", "hint": "Deadpan stare, viral gothic rave dance"},
         {"name": "Barbie", "hint": "Perfect smile, 'Hi Barbie!', walks on permanent tiptoes"},
         {"name": "Charlie Chaplin", "hint": "Little Tramp, bowler hat, twirling cane, silent comedy"},
-        {"name": "Deadpool", "hint": "Breaks 4th wall, dual katanas, witty mercenary"}
+        {"name": "Deadpool", "hint": "Breaks 4th wall, dual katanas, witty mercenary"},
         {"name": "Feluda / Pradosh C. Mitter", "hint": "Satyajit Ray's sleuth, Charminar cigarette, sharp brain 'Mogojastro'"},
         {"name": "Byomkesh Bakshi", "hint": "Bengal's 'Satyanweshi' (truth-seeker), traditional dhoti, sharp deduction"},
         {"name": "Uttam Kumar", "hint": "Mahanayak of Bengali cinema, hypnotic smile, classic romantic mannerisms"},
@@ -169,7 +169,7 @@ MASTER_DECKS = {
         {"name": "Steve Jobs", "hint": "Black turtleneck, unveiled the original iPhone"},
         {"name": "Elon Musk", "hint": "Launches rockets to Mars, loves memes and Cybertrucks"},
         {"name": "Isaac Newton", "hint": "Apple fell on head, universal law of gravitation"},
-        {"name": "Julius Caesar", "hint": "Roman laurel wreath, 'Et tu, Brute?'"}
+        {"name": "Julius Caesar", "hint": "Roman laurel wreath, 'Et tu, Brute?'"},
         {"name": "Netaji Subhas Chandra Bose", "hint": "Military uniform and round spectacles, 'Give me blood and I will give you freedom', INA founder"},
         {"name": "Bhagat Singh", "hint": "Tilted fedora hat, twirled mustache, 'Inquilab Zindabad', fearlessly embraced martyrdom"},
         {"name": "Sardar Vallabhbhai Patel", "hint": "Iron Man of India, draped khadi shawl, unified 565 princely states, Statue of Unity"},
@@ -207,7 +207,7 @@ MASTER_DECKS = {
         {"name": "Freddie Mercury", "hint": "Live Aid 'Ay-Oh!', mic stand in clenched fist"},
         {"name": "MrBeast", "hint": "YouTube creator giving away millions in cash and challenges"},
         {"name": "Gordon Ramsay", "hint": "'It\\'s raw!', slam two slices of bread: idiot sandwich"},
-        {"name": "Khaby Lame", "hint": "Silent reaction shrug with outstretched palms"}
+        {"name": "Khaby Lame", "hint": "Silent reaction shrug with outstretched palms"},
         {"name": "A.R. Rahman", "hint": "Mozart of Madras, keyboard maestro, Oscars for 'Jai Ho', calm humble demeanor"},
         {"name": "Lata Mangeshkar", "hint": "Nightingale of India, pure white saree with border, legendary soulful high-pitch singing"},
         {"name": "Kishore Kumar", "hint": "Eccentric musical genius, yodeling maestro, comical expressions and stage antics"},
