@@ -228,7 +228,7 @@ MASTER_DECKS = {
         {"name": "Ashish Chanchlani", "hint": "Loud comedic skits, exaggerated hand movements, high-decibel youth humor"},
         {"name": "Samay Raina", "hint": "Chess streaming humor, edgy deadpan roasting, 'India's Got Latent' host"},
         {"name": "Tanmay Bhat", "hint": "AIB co-founder, infectious wheezing laugh, 'Bot army' YouTube reaction vlogs"}
-    ]
+    ],
     "Cartoon Characters" : [
         {"name": "Chhota Bheem", "hint": "Orange dhoti, eating heaps of laddoos for instant super strength, Dholakpur hero"},
         {"name": "Kalia Ustad", "hint": "Fat bully of Dholakpur, always accompanied by Dholu-Bholu, jealous of Bheem"},
